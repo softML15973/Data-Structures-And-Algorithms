@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\PC\source\repos\Infix To Postfix Using Stack\Infix To Postfix Using Stack\Source.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Infix To Postfix Using Stack\Infix To Postfix Using Stack\Source.cpp(205,11): warning C4018: '<': signed/unsigned mismatch
+  Infix To Postfix Using Stack.vcxproj -> C:\Users\PC\source\repos\Infix To Postfix Using Stack\Debug\Infix To Postfix Using Stack.exe
